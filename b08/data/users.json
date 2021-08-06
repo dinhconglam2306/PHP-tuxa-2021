@@ -1,0 +1,33 @@
+[
+ 
+  {
+    "username": "peter",
+    "password": "e10adc3949ba59abbe56e057f20f883e",
+    "fullname": "Peter Brown",
+    "role" : "member"
+  },
+  {
+    "username": "conglam",
+    "password": "e10adc3949ba59abbe56e057f20f883e",
+    "fullname": "Đinh Công Lâm",
+    "role" : "member"
+  },
+  {
+    "username": "mary",
+    "password": "e10adc3949ba59abbe56e057f20f883e",
+    "fullname": "Mary Claure",
+    "role" : "member"
+  },
+  {
+    "username": "admin",
+    "password": "e10adc3949ba59abbe56e057f20f883e",
+    "fullname": "Admin",
+    "role" : "admin"
+  },
+  {
+    "username": "john",
+    "password": "e10adc3949ba59abbe56e057f20f883e",
+    "fullname": "John Smith",
+    "role" : "member"
+  }
+]

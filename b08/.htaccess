@@ -1,0 +1,7 @@
+DirectoryIndex login.php
+
+Options -Indexes
+
+<Files "./users.json" >
+deny from all
+</Files> 

@@ -1,0 +1,8 @@
+DirectoryIndex index.php
+
+Options All -Indexes
+
+<Files "news.php" >
+deny from all
+</Files> 
+
